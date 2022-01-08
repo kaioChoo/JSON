@@ -1,0 +1,10 @@
+{
+	"name":"Ilya",
+	"age":24,
+	"pets": {
+		"cat":	  "Kirsan",
+	        "chicken":"Egor",
+	        "dog	":"Zhenya"
+		},
+	"salary":1000
+}
