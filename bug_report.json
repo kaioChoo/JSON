@@ -1,1 +1,13 @@
-
+{
+    "summary":"bugreport",
+    "project":"ksendzov",
+    "component":"ksendzov.com",
+    "version":"1.27 alpha",
+    "severity":"S4",
+    "priority":"P2",
+    "status":"new",
+    "author":"Ilya",
+    "assigned_to":"mentor",
+    "description":"its my first bug report",
+    "attachment":"this file"
+}
