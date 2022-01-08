@@ -1,5 +1,7 @@
 {
-	"skills":"gitbash",
+	"skills":
+	[
+		 "gitbash",
 		 "server_architecture",
 		 "json_xml_structure",
 		 "test_api",
@@ -16,4 +18,6 @@
 		 "remote_server",
 		 "sql",
 		 "jmeter",
-		 "python"}
+		 "python"
+	]
+}

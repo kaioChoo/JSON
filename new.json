@@ -1,7 +1,10 @@
 {
 	"name":"Ilya",
-	"age":"24",
-	"pets":"Kirsan",
-	       "Egor",
-	       "Zhenya",
-	"salary":"1000$"}
+	"age":24,
+	"pets": {
+		"cat":	  "Kirsan",
+	        "chicken":"Egor",
+	        "dog	":"Zhenya"
+		},
+	"salary":1000
+}
