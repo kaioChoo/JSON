@@ -1,7 +1,11 @@
 {
+<<<<<<< HEAD
 	"skills":
 	[
 		 "gitbash",
+=======
+	"skills":"gitbash",
+>>>>>>> 95bbd18261a7037f0e779e511e3bd7d9a7148fcf
 		 "server_architecture",
 		 "json_xml_structure",
 		 "test_api",
@@ -18,6 +22,10 @@
 		 "remote_server",
 		 "sql",
 		 "jmeter",
+<<<<<<< HEAD
 		 "python"
 	]
 }
+=======
+		 "python"}
+>>>>>>> 95bbd18261a7037f0e779e511e3bd7d9a7148fcf
